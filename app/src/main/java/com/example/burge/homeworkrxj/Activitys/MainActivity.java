@@ -13,8 +13,8 @@ import android.widget.EditText;
 
 import com.example.burge.homeworkrxj.Controllers.ListOfCars;
 import com.example.burge.homeworkrxj.Controllers.RxViewEvents;
-import com.example.burge.homeworkrxj.R;
-import com.example.burge.homeworkrxj.R2;
+import com.example.burge.homeworkrxj.Activitys.R;
+import com.example.burge.homeworkrxj.Activitys.R2;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
